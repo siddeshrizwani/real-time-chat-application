@@ -1,4 +1,4 @@
-# 💬 NovaChat — Real-Time Chat Application
+# 💬 Real-Time Chat Application
 
 A modern full-stack real-time chat application built with scalable architecture, secure authentication, instant messaging capabilities, and a clean responsive user experience.
 
@@ -88,13 +88,13 @@ and many more...
 ## Clone the repository
 
 ```bash
-git clone https://github.com/siddeshrizwani/NovaChat.git
+git clone https://github.com/siddeshrizwani/ .git
 ```
 
 ## Navigate to project directory
 
 ```bash
-cd NovaChat
+cd  
 ```
 
 ## Install dependencies
@@ -132,7 +132,7 @@ npm run dev
 # 📂 Project Structure
 
 ```bash
-NovaChat/
+ /
 │
 ├── client/             # Frontend application
 ├── server/             # Backend server

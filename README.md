@@ -174,7 +174,7 @@ npm run dev
 
 # 👨‍💻 Developed by
 
-### Siddesh Rizwani
+### Siddesh Kishor Rizwani
 
 - GitHub: https://github.com/siddeshrizwani
 - LinkedIn: https://www.linkedin.com/in/siddesh-rizwani

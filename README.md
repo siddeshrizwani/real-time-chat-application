@@ -172,7 +172,7 @@ npm run dev
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developed by
 
 ### Siddesh Rizwani
 
@@ -180,7 +180,3 @@ npm run dev
 - LinkedIn: https://www.linkedin.com/in/siddesh-rizwani
 
 ---
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
